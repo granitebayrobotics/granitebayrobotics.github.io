@@ -1,0 +1,14 @@
+/****** PLACE YOUR CUSTOM STYLES HERE ******/
+
+.box:hover{
+  color:#47b475;
+  background-color:#dedede;
+  transition:all .5s;
+}
+.box{
+  transition:all .5s;
+}
+
+.box-text{
+  color:#292929
+}
